@@ -1,0 +1,38 @@
+/*Importing Google fonts */
+@import url
+
+/* Importing components files */
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/typeform.css");
+
+/* General style rules for fonts and colors */
+body {
+	font-family: "Academy Engraved LET", serif;
+	font-size: 20px;
+	margin: 0px;
+	background-color: #F6F4F3;
+}
+
+h1, h2, h3 {
+	font-family:"Academy Engraved LET", sans-serif;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 30px;
+	color: #031F58;
+}
+
+h2 {
+	font-family: courier;
+	font-weight: lighter;
+	margin-bottom: 30px;
+	margin-top: 0px;
+}
+
+h3 {
+	font-size: 30px;
+}
